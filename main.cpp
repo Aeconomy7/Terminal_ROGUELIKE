@@ -247,7 +247,7 @@ int main()
 					goto sp;
 				}
 				//(WIP)
-				else if(ans == '3')
+/*				else if(ans == '3')
 				{
 					inventory:
 
@@ -334,7 +334,7 @@ int main()
 
                                         std::cin.clear();
                                         std::cin.ignore();
-				}
+				}*/
 				// Return to map/go to map
 				else if(ans == '4') {
 					// Determine which floor we were on by checking completion status of all maps starting at the beginning
