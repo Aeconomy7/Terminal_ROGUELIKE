@@ -12,7 +12,9 @@ How high can you get your stats?
 ### Compilation
 
 > git clone https://github.com/Aeconomy7/Terminal_ROGUELIKE.git
+
 > cd Terminal_ROGUELIKE
+
 > make
 
 
