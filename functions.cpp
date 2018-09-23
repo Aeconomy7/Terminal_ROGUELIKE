@@ -100,8 +100,8 @@ void character_menu(void)
 	border3();
 	rlutil::setColor(7);
 	std::cout << "\n(1): View character statistics\n";
-	std::cout << "(2): Spend skill points\n";
-	std::cout << "(3): View inventory\n";
+	std::cout << "(2): Spend skill points\n\n";
+//	std::cout << "(3): View inventory\n";
 	std::cout << "(4): Return to map\n\n";
 	std::cout << "(S): Shop\n";
 	std::cout << "(Q): Logout\n\n";
